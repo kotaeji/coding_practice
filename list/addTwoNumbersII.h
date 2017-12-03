@@ -1,5 +1,4 @@
-#ifndef __ADD_TWO_NUMBERS_II_H__
-#define __ADD_TWO_NUMBERS_II_H__
+#pragma once
 
 #include <iostream>
 #include <stack>
@@ -54,5 +53,3 @@ public:
 		return head;
 	}
 };
-
-#endif
